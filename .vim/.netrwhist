@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/pi/integrated/images'
+let g:netrw_dirhist_7='/home/pi/integrated'
+let g:netrw_dirhist_6='/home/pi/ShotTracker/integrated'
+let g:netrw_dirhist_5='/home/pi/ShotTracker/integrated/yolov5'
+let g:netrw_dirhist_4='/home/pi/ShotTracker/integrated'
+let g:netrw_dirhist_3='/home/pi/ShotTracker'
+let g:netrw_dirhist_2='/home/pi/ShotTracker/integrated'
+let g:netrw_dirhist_1='/home/pi/ShotTracker'
+let g:netrw_dirhist_0='/home/pi/ShotTracker/start_detection'
+let g:netrw_dirhist_9='/home/pi/integrated'
